@@ -1,3 +1,4 @@
+[screen-capture.webm](https://user-images.githubusercontent.com/97244608/205361678-d84feb6a-d27c-4c75-ac0f-b21b73bb1eae.webm)
 # Thoughts-SmallNote-App
 A small note taking app with characters  limitation  of 200  made up of react js ,swiper js for sliding between notes and material UI
 
