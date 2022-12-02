@@ -1,3 +1,7 @@
+# Thoughts-SmallNote-App
+A small note taking app with characters  limitation  of 200  made up of react js ,swiper js for sliding between notes and material UI
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
